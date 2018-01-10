@@ -1,5 +1,5 @@
 # 宏都拉斯發生芮氏規模7.6地震 海嘯範圍包含鄰近多國
-![GITHUB](https://dl.dropboxusercontent.com/u/2226591/GIT/dojocat.jpg "git圖示")
+![GITHUB](https://tnimage.taiwannews.com.tw/photos/shares/5a5589ea24db3.jpg "git圖示")
 
 （台灣英文新聞／朱明珠 綜合外電報導）中美洲宏都拉斯（Honduras）外海周二發生芮氏規模7.6地震，太平洋海嘯預警中心一度發出海嘯警報，所幸並未傳出海嘯災情，警報也於1鐘頭後解除。
 
